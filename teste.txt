@@ -1,3 +1,24 @@
-Texto teste.
+CÓDIGOS GIT
 
-Este é outro texto teste.
+-Criar
+Criou uma pasta introdução git
+Dentro da pasta abre o git bash 
+Entrar com o comando git init
+Esse comando vai iniciar um repositório main
+A pasta a partir de agora está versionada.
+
+-No GitHub
+Cria um repositório 
+Add no git bash o código que tem nas instruções do GitHub
+git remote add origin https://github.com/caminho.git
+
+
+Git add . (Adiciona tudo o que tem na pasta para o git.)
+ 
+
+Git commit -m "mensagem" (Ele faz um commit)
+
+
+Git status (Ele vê o que tem de pendencia pra fazer commit)
+
+git push -u origin main (O git faz um push pro repositório online, joga tudo o que tiver na pasta para o repositório remoto.)
