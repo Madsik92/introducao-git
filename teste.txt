@@ -22,3 +22,10 @@ Git commit -m "mensagem" (Ele faz um commit)
 Git status (Ele vê o que tem de pendencia pra fazer commit)
 
 git push -u origin main (O git faz um push pro repositório online, joga tudo o que tiver na pasta para o repositório remoto.)
+
+
+Repositório DEV
+
+git checkout -b (nome da branch) - Cria uma nova branch.
+
+git branch - mostra quantas branchs e em qual branch está.
